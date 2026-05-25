@@ -1,0 +1,27 @@
+{
+  "name": "nikita-portfolio-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.5.0",
+    "axios": "^1.7.9",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.4.7",
+    "googleapis": "^144.0.0",
+    "lucide-react": "^0.477.0",
+    "next": "^15.2.0",
+    "next-themes": "^0.4.6",
+    "nodemailer": "^6.10.0",
+    "postcss": "^8.5.14",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss": "^3.4.17"
+  }
+}

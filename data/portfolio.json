@@ -1,0 +1,96 @@
+{
+  "name": "Nikita Kisan Bhilare",
+  "title": "Junior QA Trainee",
+  "bio": "Detail-oriented QA Professional specialized in testing web and mobile apps. Skilled in designing comprehensive test cases, tracking defects, and leveraging AI-assisted development to ensure seamless user experiences and high-quality software delivery.",
+  "about": "As a Junior QA Trainee based in Pune, I am dedicated to the pursuit of excellence in software quality. My educational foundation includes an M.Tech in Computers from TSSM Bhivarabai Sawant College and a B.Tech in Computer Science and Engineering from Anantrao Pawar College.\n\nI believe that QA is about understanding the user's journey and ensuring every interaction is meaningful. I enjoy diving deep into applications, writing test scripts, and identifying edge cases to deliver reliable software.\n\nBeyond testing, I have hands-on experience experimenting with frontend technologies like React and building dynamic user interfaces. I am a lifelong learner, always eager to pick up new tools and methodologies.",
+  "email": "nikibhilare1601@gmail.com",
+  "social": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com"
+  },
+  "skills": [
+    {
+      "category": "QA & Testing",
+      "items": ["Regression Testing", "Selenium WebDriver & Java", "Test Case Execution", "Mobile Application Testing", "TestNG"]
+    },
+    {
+      "category": "Development",
+      "items": ["HTML & CSS", "Bootstrap", "React", "Java", "Responsive Design"]
+    },
+    {
+      "category": "Tools & Languages",
+      "items": ["GitHub", "ChatGPT for QA", "English (Fluent)", "Hindi (Fluent)", "Marathi (Fluent)"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "OrangeHRM Website Testing",
+      "description": "Conducted automated and manual testing of the OrangeHRM web application using Selenium WebDriver with Java. Designed and executed test cases to validate core functionalities, including user authentication, employee management, and form validations. Identified, documented, and tracked defects, ensuring timely resolution. Improved test coverage and application stability through structured testing approaches and cross-browser validation.",
+      "techStack": "Selenium WebDriver, Java, Manual Testing, Bug Tracking, Cross-Browser Testing",
+      "category": "QA / Testing",
+      "image": "/images/orangehrm_testing.png",
+      "githubLink": "#",
+      "liveDemoLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "MilkApp Manual & Automation Testing",
+      "description": "Performed both manual and automated testing of the MilkApp application. Designed and executed test cases for key modules such as user registration, order management, and payment workflows. Automated test scenarios using Selenium WebDriver with Java to improve efficiency. Identified, reported, and tracked defects, ensuring high-quality application delivery.",
+      "techStack": "Manual Testing, Selenium WebDriver, Java, Bug Tracking",
+      "category": "QA / Testing",
+      "image": "/images/milkapp_testing.png",
+      "githubLink": "#",
+      "liveDemoLink": "#"
+    },
+    {
+      "id": 3,
+      "title": "SocietyApp – Residential Society Management System",
+      "description": "Developed a full-stack Residential Society Management System to streamline administration of housing societies, including management of societies, wings, and individual members. Built scalable frontend and backend modules using modern development practices, with support for CRUD operations, role-based access, and structured data handling. Leveraged AI-assisted development (vibe coding) to accelerate implementation.",
+      "techStack": "Full-Stack, REST APIs, AI-Assisted Development",
+      "category": "Full Stack",
+      "image": "/images/societyapp_dashboard.png",
+      "githubLink": "#",
+      "liveDemoLink": "#"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Junior QA Trainee",
+      "company": "Sveltoz Solutions",
+      "period": "March 2025 - Present",
+      "description": "Working as a Junior QA Trainee, contributing to software quality and ensuring seamless user experiences.",
+      "points": [
+        "Running and maintaining regression tests for web applications",
+        "Executing manual test cases and logging detailed defects",
+        "Writing test scripts and test cases for software modules",
+        "Collaborating with the development team to isolate issues"
+      ]
+    },
+    {
+      "role": "React Development Intern",
+      "company": "Kirabiz Technologies",
+      "period": "Oct 2023 - Dec 2023",
+      "description": "Contributed to front-end development by building a dynamic React-based website and collaborating closely with team members.",
+      "points": [
+        "Developed and maintained a responsive React website",
+        "Collaborated with team members to design and implement project features",
+        "Improved understanding of responsive layouts and modern UI design",
+        "Participated in active coding and project structure learning"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech in Computers",
+      "institution": "TSSM Bhivarabai Sawant College",
+      "period": "Completed"
+    },
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Anantrao Pawar College",
+      "period": "Completed"
+    }
+  ]
+}
